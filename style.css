@@ -1,0 +1,171 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+nav{
+    display: flex;
+    padding: 2% 6%;
+    justify-content: space-between;
+    text-align: center;
+}
+.nav-link{
+    flex: 1;
+    text-align: right;
+}
+.nav-link ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+
+}
+.nav-link ul li a{
+    text-decoration: none;
+    color: white;
+}
+.button{
+    font-size: 13px;
+    text-decoration: none;
+    background-color: black;
+    border-radius: 10px;
+    margin: 2px 10px;
+    padding: 3px 6px;
+}
+h1{
+    font-size: 50px;
+    
+}
+span{
+    color: tomato;
+}
+.section-2{
+    
+    display: flex;
+    margin-bottom: 50px;
+
+}
+.half-width{
+    width: 50%;
+
+
+}
+.half-width img{
+    width: 90%;
+    margin-left: 30px;
+    padding-bottom: 30px;
+}
+#half-down{
+    margin-top: 150px;
+    margin-left: 6%;
+}
+.link{
+    text-decoration: none;
+    background-image: linear-gradient(blue, lightblue);
+    padding: 10px 15px;
+    border-radius: 25px;
+}
+.link-down{
+    margin-top: 60px;
+}
+.section-3{
+    display: flex;
+    background-image: url(img-assi/Frame\ 57.jpg);
+}
+.about-me{
+    
+    padding-left: 25px;
+    margin-top: 40px;
+}
+
+
+}
+#quotes{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.card{
+    
+    width: 220px;
+    height: 400px;
+    margin: 10px;
+    background-color:white(10, 1, 1);
+    color: black;
+    box-shadow: 3px 3px 15px;
+    border-radius: 15px;
+    border: 5px solid white;
+   
+}
+.card-image {
+    background-color:white(61, 133, 133);
+    margin-bottom: 10px;
+    height: 150px;
+    background-size: cover;
+    border-radius: 15px;
+    border: 5px solid white;
+
+}
+.jpg-1{
+    background-image: url(img-assi/Project\ Cover5.png);
+}
+.jpg-2{
+    background-image: url(img-assi/Project\ Cover1.jpg);
+}
+.jpg-3{
+    background-image: url(img-assi/Project\ Cover.jpg);
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.follow{
+    width: 30%;
+    
+    margin-left: 20px;
+}
+.section-4{
+margin: auto;
+width: 500px;
+max-width: 90%;
+}
+.section-4{
+    border: 6px solid rgb(235,230 ,230 );
+    border-radius: 30px;
+    margin: 40px;
+    
+    width: 90%;
+    
+    margin-right: 10%;
+    
+}
+
+.section-5{
+    display: flex;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+.experience-area{
+    background-color: white;
+    font-size: 20px;
+    width: 50%;
+    display: block;
+    margin-top: 40px;
+}
+#br{
+    border-left: 5px solid black;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 100px;
+}
+.foot{
+    color: orange;
+}
